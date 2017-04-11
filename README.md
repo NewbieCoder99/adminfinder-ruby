@@ -1,6 +1,6 @@
 # adminfinder-ruby
 <br>
-User Guide :
+User Guide :<br>
 1. <a href="https://github.com/xyind/adminfinder-ruby/archive/master.zip" target="_blank">Download file</a> <br>
 2. Extract zip <br>
 3. Write in terminal or CMD if you use Windows "ruby adminfinder.rb" <br>
