@@ -1,7 +1,7 @@
 # adminfinder-ruby
 <br>
 User Guide :<br>
-1. Linux OS Requirement
+1. Linux OS Requirement <br>
 2. <a href="https://github.com/xyind/adminfinder-ruby/archive/master.zip" target="_blank">Download file</a> <br>
 3. Extract zip <br>
 4. Write in terminal "ruby adminfinder.rb" <br>
