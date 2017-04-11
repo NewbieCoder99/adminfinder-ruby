@@ -1,0 +1,2 @@
+[0;32;49m[INFO]|Adminfinder|:: http://demo.cs-cart.com/admin.php [Page Found: 302][0m 
+[0;32;49m[INFO]|Adminfinder|:: http://demo.cs-cart.com/admin.php [Page Found: 302][0m 
