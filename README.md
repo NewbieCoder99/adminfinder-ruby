@@ -5,8 +5,8 @@ User Guide :
 2. Extract zip <br>
 3. Write in terminal or CMD if you use Windows "ruby adminfinder.rb" <br>
 4. Command List : <br>
-    1. get --help                           || Help for use program <br>
-    2. get --quit                           || Exit program <br>
-    3. get --url http://www.target.com      || Test and search admin page or loginpage <br>
+    ~ get --help                           || Help for use program <br>
+    ~ get --quit                           || Exit program <br>
+    ~ get --url http://www.target.com      || Test and search admin page or loginpage <br>
 
 <br>Created By <b>xyind (Newbie Coder)</b>
